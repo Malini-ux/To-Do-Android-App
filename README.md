@@ -1,6 +1,5 @@
 # To-Do Android App
 ![image](https://github.com/Malini-ux/To-Do-Android-App/assets/114894629/2b7b9d8d-3290-4c8b-837b-1e0e9a2cde22)
-
 ![image](https://github.com/Malini-ux/To-Do-Android-App/assets/114894629/c4e9917c-14af-4a74-9f34-5ec5df815d44)
 
 ## Overview
